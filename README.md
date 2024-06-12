@@ -1,19 +1,21 @@
-Step 1: Install WSL and Ubuntu
+# Setup Instructions for privateGPT
 
-    Install WSL:
-    Open PowerShell as an administrator and run:
+This guide will walk you through the steps required to set up and run the privateGPT model using WSL and other necessary tools.
+
+## Step 1: Install WSL and Ubuntu
+
+1. **Install WSL:**
+   Open PowerShell as an administrator and run:
+   ```sh
+   wsl --install
+
+    Install Ubuntu:
+    Ubuntu should be installed automatically with the above command. If not, you can manually install it from the Microsoft Store.
+
+    Uninstall Ubuntu (if needed):
+    To uninstall Ubuntu, run:
 
     sh
-
-wsl --install
-
-Install Ubuntu:
-Ubuntu should be installed automatically with the above command. If not, you can manually install it from the Microsoft Store.
-
-Uninstall Ubuntu (if needed):
-To uninstall Ubuntu, run:
-
-sh
 
     wsl --unregister Ubuntu
 
