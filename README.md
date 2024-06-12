@@ -5,7 +5,7 @@ This guide will walk you through the steps required to set up and run the privat
 ## Step 1: Install WSL and Ubuntu
 
 1. **Install WSL:**
-   Open PowerShell as an administrator and run:
+ Open PowerShell as an administrator and run:
    ```sh
    wsl --install
 
@@ -93,6 +93,6 @@ PGPT_PROFILES=local make run
 Access the Application:
 Open your browser and go to:
 ```sh
-    http://localhost:8001/
+http://localhost:8001/
 ``` 
 By following these steps, you should have the privateGPT model up and running.
