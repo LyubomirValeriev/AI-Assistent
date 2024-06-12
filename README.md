@@ -41,7 +41,7 @@ nano .bashrc
 Paste the command at the end of the file, save, and exit:
 
     Press CTRL + X
-    Press Y to confirm
+    Press V 
     Press ENTER
 
 b. Configure .profile:
@@ -52,7 +52,7 @@ nano .profile
 Paste the command at the end of the file, save, and exit:
 
     Press CTRL + X
-    Press Y to confirm
+    Press V 
     Press ENTER
 
 Set up Poetry:
